@@ -30,7 +30,7 @@ Eg: If your input is abcdABCD0123. The Encrypted output for it is [\]^:;<=)*+,
 
 <h4>Note: SPACE AND SOME SPECIAL CHARACTERS CANNOT BE DECRYPTED PROPERLY ACCORDINGLY TO YOUR INPUT.</h4>
 
-<h1>EXAMPLE:</h1> 
+<h1>An Example:</h1> 
 
 <h4>Case(i):</h4>
 GIVE INPUT AS abcd@gmail.com
