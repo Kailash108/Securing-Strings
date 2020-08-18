@@ -29,7 +29,7 @@ Eg: If your input is abcdABCD0123. The Encrypted output for it is [\]^:;<=)*+,
 
 <h1>EXAMPLE:</h1> 
 
-<h4>Case(i):</h4><br>
+<h4>Case(i):</h4>
 GIVE INPUT AS abcd@gmail.com
 Copy-paste the encrypted string in the decryptor.
 Clicking on Yes gives you ====> [\]^@gm[il.]om
@@ -39,7 +39,7 @@ So, here you have inputted an E-mail id and the outputs are based on our choice.
 
 So, if you need '@' in place of G and '.' in place of 5, you can write down that manually on a piece of paper.
 
-<h4>Case(ii):</h4><br>
+<h4>Case(ii):</h4>
 ab cd(Input)-->Encrypt it---> [\ ]^ (Encrypted Key) ---->Decrypt it----->Click-Yes---->[\]^(Output)
              							         Click-No----->abcd(Output)
 
