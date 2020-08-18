@@ -4,7 +4,10 @@ Hello Guys,
 Thnx for testing/using my GUI(Built using tkinter). The repository in GitHub is named as 'Securing Strings', which contains Encryption and Decryption Algorithm.
 
 I have named them like BasiEncrypt and BasiDecrypt. 
-
+<h1>Installation</h1>
+1. Install Python 3.x or latest version on your computer
+2. (Optional)You can also set up and IDE for Python or can use the official python.org interpreter.
+3. Copy-Paste the code  or download the repository and run that with your IDE or Interpreter.
 <h1>How it works??</h1>
 
 <h4>Encryption(BasiEncrypt):</h4>
