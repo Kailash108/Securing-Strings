@@ -5,9 +5,9 @@ Thnx for testing/using my GUI(Built using tkinter). The repository in GitHub is 
 
 I have named them like BasiEncrypt and BasiDecrypt. 
 <h1>Installation</h1>
-1. Install Python 3.x or latest version on your computer
-2. (Optional)You can also set up and IDE for Python or can use the official python.org interpreter.
-3. Copy-Paste the code  or download the repository and run that with your IDE or Interpreter.
+1. Install Python 3.x or latest version on your computer.<br>
+2. (Optional)You can also set up and IDE for Python or can use the official python.org interpreter.<br>
+3. Copy-Paste the code  or download the repository and run that with your IDE or Interpreter.<br>
 <h1>How it works??</h1>
 
 <h4>Encryption(BasiEncrypt):</h4>
